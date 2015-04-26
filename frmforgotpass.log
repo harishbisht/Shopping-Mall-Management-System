@@ -1,0 +1,11 @@
+Line 15: Class vkUserContolsXP.vkFrame of control frameforgotpass was not a loaded control class.
+Line 33: Class ButtonXp.XPButton of control cmdcancel was not a loaded control class.
+Line 54: Class ButtonXp.XPButton of control cmdok was not a loaded control class.
+Line 75: Class vkUserContolsXP.vkLabel of control vkLabel4 was not a loaded control class.
+Line 96: Class vkUserContolsXP.vkLabel of control vkLabel1 was not a loaded control class.
+Line 117: Class vkUserContolsXP.vkTextBox of control txtmobileno was not a loaded control class.
+Line 147: Class vkUserContolsXP.vkTextBox of control txtusername was not a loaded control class.
+Line 176: Class vkUserContolsXP.vkFrame of control framepass was not a loaded control class.
+Line 194: Class ButtonXp.XPButton of control cmdokk was not a loaded control class.
+Line 215: Class vkUserContolsXP.vkTextBox of control txtforgotpass was not a loaded control class.
+Line 245: Class vkUserContolsXP.vkLabel of control vkLabel2 was not a loaded control class.
